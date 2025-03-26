@@ -1,0 +1,5 @@
+{
+  "item.growthcontrols.item_grow": "Growth Inspector",
+  "item.growthcontrols.item_grow.tooltip": "Right-click a crop to list the biomes it can grow in",
+  "item.growthcontrols.item_grow.tooltip2": "Shift + Right-click to list biomes no crops grow in"
+}
